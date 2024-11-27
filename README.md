@@ -33,6 +33,7 @@ No se requiere instalación especial para este proyecto. Simplemente clona el re
 ```sh
 git clone https://github.com/tu_usuario/Mi-Sitio-Web-de-Video.git
 cd Mi-Sitio-Web-de-Video
+```
 
 Uso
 Abre el archivo index.html en tu navegador web para ver el sitio web.
